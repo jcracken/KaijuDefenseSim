@@ -34,7 +34,9 @@ public class spawnObject : MonoBehaviour {
                     GameObject art = Instantiate(artillery, spawnPosition, Quaternion.Euler(new Vector3(0, 0, 0)));
                     break;
             }
-            
         }
+    }
+    public void changeType(int t) {
+        type = t;
     }
 }
