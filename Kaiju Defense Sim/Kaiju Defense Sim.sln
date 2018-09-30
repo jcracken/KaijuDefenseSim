@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{E640EB8B-F72B-60AF-9280-31785A63823D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaiju Defense Sim", "Assembly-CSharp.csproj", "{E640EB8B-F72B-60AF-9280-31785A63823D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
