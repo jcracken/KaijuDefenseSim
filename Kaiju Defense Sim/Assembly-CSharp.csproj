@@ -61,6 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\fire.cs" />
+    <Compile Include="Assets\monsterMove.cs" />
     <Compile Include="Assets\spawnObject.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/jimin/Documents/KaijuDefenseSim/Kaiju Defense Sim/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
